@@ -3,6 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-808129192/)
 
+[![Anser's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+
 ## Tecnologias que utilizo 🧑‍💻
 
 <div style="display: inline_block"><br/>
