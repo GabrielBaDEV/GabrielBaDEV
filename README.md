@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-808129192/)
 
-<img align="right" alt="Coding" width="320" weight="1000" src="https://camo.githubusercontent.com/cab6fe7bb1021d845cb67eae7c618dd09ca6ec53f028a5349cf3ceae47d6f889/687474703a2f2f692e696d6775722e636f6d2f6c6e636270426d2e676966"/>
+<img align="right" alt="Coding" width="320" weight="1000" src="http://25.media.tumblr.com/tumblr_m8kuxjuJcg1qdemqzo1_400.gif"/>
 
 
 [![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
