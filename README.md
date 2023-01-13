@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 
-[![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+[![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)<br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nxgabriel&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
 
 
