@@ -1,8 +1,6 @@
 ### Olá,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu  sou o Gabriel Barbosa 😃
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-808129192/)
-
-<img align="right" alt="Coding" width="320" weight="1000" src="http://25.media.tumblr.com/tumblr_m8kuxjuJcg1qdemqzo1_400.gif"/>
+<img align="right" alt="Coding" width="320" src="https://img1.picmix.com/output/stamp/normal/7/4/5/1/1681547_790a0.gif"/>
 
 
 [![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
