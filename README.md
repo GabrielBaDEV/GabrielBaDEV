@@ -1,9 +1,11 @@
-### Olá, eu sou o Gabriel Barbosa 👋😃
-
+### Olá,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu  sou o Gabriel Barbosa 👋😃
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-808129192/)
 
-[![Anser's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+[![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nxgabriel&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+
+  
 
 ## Tecnologias que utilizo 🧑‍💻
 
