@@ -6,8 +6,8 @@
 
 <img align="right" alt="Coding" width="320" src="https://monophy.com/media/XH9wwXfUXu91wAJwN5/monophy.gif"/>
 
-[![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nxgabriel&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/nxgabriel)
+[![Barbosa github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxgabriel&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=111111)](https://github.com/nxgabriel)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nxgabriel&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=111111)](https://github.com/nxgabriel)
 
 
   
