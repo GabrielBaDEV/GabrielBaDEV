@@ -1,8 +1,6 @@
 ### Olá,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu  sou o Gabriel Barbosa 😃
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-808129192/)
 
-<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"/>
-
 
 <img align="right" alt="Coding" width="320" src="https://monophy.com/media/XH9wwXfUXu91wAJwN5/monophy.gif"/>
 
