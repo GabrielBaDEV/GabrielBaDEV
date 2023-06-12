@@ -20,5 +20,10 @@
   
 </div>
 <br/>
+Formado em Analise e Desenvolvimento de Sistemas e completamente obcecado em tecnologia, tenho como foco a programação. Comprometido e superinteressado em linguagens de programação, disponho de conhecimentos básicos, como o Python, C, C#, Java e atualmente estou focando em JavaScript e seu framework React.js.
 
-Tenho como objetivo me tornar um desenvolvedor na área de analise de sistemas, com ênfase em softwares de programação, softwares de aplicação e páginas web, disponho de conhecimentos básicos em linguagens de programação como: C, C#, Java 12, JavaScript e Python e linguagem de marcação HTML5 e CSS3.
+Tenho como objetivo me tornar um Desenvolvedor Front-End, mas estou aberto a outras experiências profissionais, e de aprendizagem que irão me desafiar e botar a prova os meus conhecimentos na área.
+
+Em busca de um ambiente desafiador e colaborativo, com o intuito de aprimorar minhas habilidades e adquirir experiências, pois, acredito que essa é a melhor forma de crescer e me desenvolver profissionalmente. Empenhado em entregar meu máximo aos projetos que irei participar, utilizando da minha criatividade e dedicação para entregar soluções de qualidade. 
+
+Estou animado com as possibilidades de crescimento no setor de tecnologia e espero ter a oportunidade de agregar valor a sua empresa.
